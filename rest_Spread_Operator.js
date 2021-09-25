@@ -1,12 +1,12 @@
 
-//     function  sum(...nums) {
-//         console.log(nums);
-//     }
+    function  sum(...nums) {
+        console.log(nums);
+    }
 
-// sum(2,8,9);
-// var arr1=[1,89,76,888];
-// var arr2=[...arr1,14,9,6,988];
-// console.log(arr2)
+sum(2,8,9);
+var arr1=[1,89,76,888];
+var arr2=[...arr1,14,9,6,988];
+console.log(arr2)
 
 let name1={
 firstName:"Namish",
